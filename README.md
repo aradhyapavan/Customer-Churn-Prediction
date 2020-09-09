@@ -1,6 +1,6 @@
 # Customer-Churn-Prediction
 
-#<b>Problem Statement</b>:
+##Problem Statement</br>:
 A Bank wants to take care of customer retention for their
 product; savings accounts. The bank wants you to identify
 customers likely to churn balances below the minimum
